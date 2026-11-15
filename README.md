@@ -13,12 +13,6 @@ Based in Italy, I’m deeply passionate about **Data Analysis**, database manage
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Querying:** `Python`, `SQL`, `HTML`, `CSS`
-* **Data & Productivity:** `Advanced Excel`, `Git`, `GitHub`, `VS Code`, `SSMS`
-
----
-
 ### 📫 Let's connect
 * **GitHub:** [@oomrar](https://github.com/oomrar)
 * **LinkedIn:** [omar-houssa](https://www.linkedin.com/in/omar-houssa)
